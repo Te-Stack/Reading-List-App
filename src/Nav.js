@@ -10,7 +10,7 @@ const Nav = () =>{
         <nav className="navbar">
             <h1 className="navbar-brand mx-auto ">Quincy Reading Lists
             <br/>
-            <p>Currently you have {books.length} books to get through...</p>
+            <p>Currently you have {books.length} books</p>
 
             
              </h1>
