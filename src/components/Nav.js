@@ -1,7 +1,7 @@
 
 import  {useContext} from 'react'
-import "./index.css"
-import { BookContext } from './context/BookContext'
+import "../index.css"
+import { BookContext } from '../context/BookContext'
 
 
 const Nav = () =>{
