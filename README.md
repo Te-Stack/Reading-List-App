@@ -10,7 +10,7 @@
 
 ## About the Project
 
-> Like a todo list for your books, This app provides a quick and simple ways to catalogue and inventory the book you want to read later. it uses your device local storage to save its content because it is not connected to a DB
+> Like a todo list for your books, This app provides a quick and simple ways to catalogue and inventory the book you want to read later. it uses your device local storage to save its content because it is not connected to a DB. Context Api and React Hooks are used for state management.
 
 ## Author
 
